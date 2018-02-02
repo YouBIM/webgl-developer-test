@@ -13,4 +13,4 @@ For simplicity we have also included a dist folder which contains a simple setup
 
 *For this purpose is required not to use a library such as Three.js, and instead to code pure Javascript and webgl with the simplest implementation.* Using third party code, such as already created algorithms on the web, books, blogs, or any type of resource is allowed. 
 
-On the library folder you will find a useful library that’s worth checking ;)!
+On the library folder you will find a useful library that’s worth checking ;)!asdasd
